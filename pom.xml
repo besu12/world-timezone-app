@@ -36,7 +36,7 @@
 				<cloudHubDeployment>
 				<username>besu13</username>
 				<password>Serki$b19</password>
-				<enviroment>Sandbox</enviroment>
+				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<muleVersion>4.3.0</muleVersion>
