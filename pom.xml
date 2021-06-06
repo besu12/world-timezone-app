@@ -41,8 +41,7 @@
           <applicationName>world-demo-api</applicationName>
           <environment>Sandbox</environment>
           <workerType>MICRO</workerType>
-          <objectStoreV2>true</objectStoreV2>
-          <properties>
+            <properties>
           <key>value</key>
           </properties>
         </cloudHubDeployment>
