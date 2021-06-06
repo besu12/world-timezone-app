@@ -36,11 +36,12 @@
         <cloudHubDeployment>
           <uri>https://anypoint.mulesoft.com</uri>
           <muleVersion>4.3.0</muleVersion>
-          <username>besu13</username>
-          <password>Serki$l19</password>
+          <username>liyat192</username>
+          <password>Rootb192</password>
           <applicationName>world-demo-api</applicationName>
           <environment>Sandbox</environment>
           <workerType>MICRO</workerType>
+          <objectStoreV2>true</objectStoreV2>
           <properties>
           <key>value</key>
           </properties>
